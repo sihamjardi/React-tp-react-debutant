@@ -10,7 +10,9 @@
 Ce TP t’apprend :
 
  • à créer des formulaires simples,
+ 
  • à partager des données entre des composants,
+ 
  • à utiliser le contexte React pour gérer des informations globales.
 
 ---
@@ -44,7 +46,9 @@ Ce TP t’apprend :
 ## Étape – Exercices 
 
 →Ajoute un formulaire d’inscription avec Nom, Email, Mot de passe.
+
 →Crée un deuxième champ synchronisé pour convertir une température en Fahrenheit.
+
 →Ajoute un bouton pour reconnecter l’utilisateur dans Profil.
 
 <img width="600" height="483" alt="Capture d&#39;écran 2025-11-08 002437" src="https://github.com/user-attachments/assets/d280978a-c549-4953-9b98-9591fcd41501" />
